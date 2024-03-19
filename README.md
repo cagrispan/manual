@@ -1,6 +1,6 @@
 This is the test project for [Manual](https://www.manual.co/).
 
-It was build using:
+It was built using:
 
 - [React](https://react.dev/)
 - [Next.js](https://nextjs.org/)
