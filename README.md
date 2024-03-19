@@ -3,6 +3,7 @@ This is the test project for [Manual](https://www.manual.co/).
 It was built using:
 
 - [React](https://react.dev/)
+- [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 - [Tailwind](https://tailwindcss.com/)
 
