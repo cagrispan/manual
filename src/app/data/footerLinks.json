@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Product",
+    "links": [
+      { "title": "Popular", "url": "#" },
+      { "title": "Trending", "url": "#" },
+      { "title": "Guided", "url": "#" },
+      { "title": "Products", "url": "#" }
+    ]
+  },
+  {
+    "title": "Company",
+    "links": [
+      { "title": "Press", "url": "#" },
+      { "title": "Mission", "url": "#" },
+      { "title": "Strategy", "url": "#" },
+      { "title": "About", "url": "#" }
+    ]
+  },
+  {
+    "title": "Info",
+    "links": [
+      { "title": "Support", "url": "#" },
+      { "title": "Custome Service", "url": "#" },
+      { "title": "Get started", "url": "#" }
+    ]
+  }
+]

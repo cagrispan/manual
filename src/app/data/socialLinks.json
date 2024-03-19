@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Follow us",
+    "links": [
+      { "title": "facebook", "iconSrc": "/images/facebook.png", "url": "#" },
+      { "title": "google", "iconSrc": "/images/google.png", "url": "#" },
+      { "title": "twitter", "iconSrc": "/images/twitter.png", "url": "#" }
+    ]
+  }
+]
